@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I'm throwing things together in Svelte (web) and Swift (mobile).
+  Throwing things together in Svelte (web) and Swift (mobile).
 </p>
 
 <br><br><br><br><br>
