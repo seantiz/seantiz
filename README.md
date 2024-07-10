@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Hi there!</b><br>
-  I'm in the (1) Svelte and (2) Pieces for Developers Discord channels when I'm online or (3) <a href="https://seantiz.vercel.app/contact">checking my email. </a>
+  I'm in the (1) Svelte Discord channel when I'm online or (2) <a href="https://seantiz.vercel.app/contact">checking my email. </a>
 </p>
 
 <p align="center">
-  Throwing things together in Svelte, Typescript and Swift.
+  Throwing things together in Java/Go for CLI apps, and Typescript/Svelte or Swift whenever I need a GUI.
 </p>
 
 <br><br><br><br><br>
