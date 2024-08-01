@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Throwing things together in Java/Go for CLI apps, and Typescript/Svelte or Swift whenever I need a GUI.
+  My main interests are finding the balance between data validation on back and front end, and how to die of old age gracefully aka concurrency.
 </p>
 
 <br><br><br><br><br>
