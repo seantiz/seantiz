@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  My main interests are finding the balance between data validation on back and front end, and how to die of old age gracefully aka concurrency.
+  My main interests are finding the balance between data validation on back and front end, and how to die of old age gracefully (parallel tasking).
 </p>
 
 <br><br><br><br><br>
