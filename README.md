@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Hi there!</b><br>
-  I'm in the (1) Svelte Discord channel when I'm online or (2) <a href="https://seantiz.vercel.app/contact">checking my email. </a>
+  I'm in the Svelte Discord channel when I'm online.
 </p>
 
 <p align="center">
