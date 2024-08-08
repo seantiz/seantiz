@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  My interests are inference/prediction in the markets, and how to die of old age gracefully (parallel tasking).
+  My interests are inference/prediction in markets, and how to die of old age gracefully (parallel tasking).
 </p>
 
 <br><br><br><br><br>
