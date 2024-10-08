@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  My interests are helping independent businesses plan for the long term through inference, and short term through parallel tasking.
+  My interests are inference and parallel tasking for independent business owners.
 </p>
 <p align="center">I still believe "Write Once, Run Anywhere" is a real thing. (I know... I know!) </p>
 <p align="center">Here's my <a href="https://github.com/seantiz/rust-webdev/blob/main/README.md">guide to feeling at home in Rust when you're coming from Typescript and/or Javascript.</a></p>
