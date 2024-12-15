@@ -1,6 +1,6 @@
 <p align="center">
   <b>Hi there!</b><br>
-  I'm in the Svelte Discord channel when I'm online. We're a friendly bunch on most days (no group is perfect).
+  I'm in the Svelte Discord channel when I'm online. <br/> We're a friendly bunch on most days (no group is perfect).
 </p>
 
 <p align="center">
