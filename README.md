@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  My interests are inference, unstructured data and any task that helps track time.
+  My interests are inference, unstructured data, infosec and any task that helps with time/project management.
 </p>
-<p align="center">Here's my <a href="https://github.com/seantiz/rust-webdev/blob/main/README.md">guide to feeling at home in Rust when you're coming from Typescript and/or Javascript.</a></p>
+<p align="center">Writing ten times less code in Go made a bigger difference to real lives this year. I wasn't expecting to say that it was a great change of perspective.</a></p>
