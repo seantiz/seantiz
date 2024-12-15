@@ -8,4 +8,4 @@
 <p align="center">
   My interests are inference, unstructured data, infosec and any task that helps with time/project management.
 </p>
-<p align="center">Writing ten times less code in Go helped me make a bigger difference to real lives this year.</p>
+<p align="center">Writing ten times less code in Go helped me make a bigger difference to real lives this year. I didn't plan it that way nor did I expect it, but that's my year. How about yours?</p>
