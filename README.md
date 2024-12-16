@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  My interests are inference, unstructured data, infosec and any task that helps with time/project management.
+  My interests are in building platform tools for inference, unstructured data and any task that helps with time/project management.
 </p>
