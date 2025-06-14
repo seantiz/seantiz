@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  My more esoteric interests are topology (usually in Rust), linear optimisation and building early-warning systems for products not to get lost in a hype cycle. 
+  My more esoteric interests are topology (usually in Rust), linear optimisation and building tools that help products survive the hype cycle. 
 </p>
 
 <p align="center">
