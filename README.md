@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  Despite my interests, I was never good at algebra when younger. I'm just heavily motivated by helping people save time, and the maths helps to save a LOT of it when you know how!
+  Wherever you see my use LaTeX or something fancy for expressing ideals and models, I was never good at algebra when younger. I'm just heavily motivated by helping people save time.
 </p>
