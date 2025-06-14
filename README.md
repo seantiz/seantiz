@@ -6,5 +6,9 @@
 </p>
 
 <p align="center">
-  My interests are time management, inference and building platform tools.
+  My more esoteric interests are topology (usually in Rust), linear optimisation and building persistence modules (where you map out how your work has lived and died several lifetimes over a product hype cycle - it can be a real eye opener). 
+</p>
+
+<p align="center">
+  Despite whatever those interests might make me sound like here, I was never particularly good at algebra or maths. I'm just heavily motivated by helping people save time.
 </p>
