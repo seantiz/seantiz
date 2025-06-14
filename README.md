@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  My more esoteric interests are topology (usually in Rust), linear optimisation and building persistence modules (where you map out how your work has lived and died several lifetimes over a product hype cycle - it can be a real eye opener). 
+  My more esoteric interests are topology (usually in Rust), linear optimisation and building early-warning systems for products not to get lost in a hype cycle. 
 </p>
 
 <p align="center">
-  Despite whatever those interests might make me sound like here, I was never good at algebra when younger. I'm just heavily motivated by helping people save time, and the maths helps to save a LOT of it, when you know how!
+  Despite my interests, I was never good at algebra when younger. I'm just heavily motivated by helping people save time, and the maths helps to save a LOT of it when you know how!
 </p>
