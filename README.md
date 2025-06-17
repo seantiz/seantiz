@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  Wherever you see me use LaTeX or some fancy expression for design ideas... know that I was never good at algebra when I was younger! I'm just heavily motivated by helping people save time.
+  Wherever you see me use fancy LaTeX for design ideas... know that I was never good at algebra when I was younger! I'm just heavily motivated by helping people save time.
 </p>
