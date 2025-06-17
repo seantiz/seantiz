@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  My more esoteric interests are topology (usually in Rust), linear optimisation and building tools that help products survive the hype cycle. 
+  My interests are topology (usually in Rust), linear ops and building tools that help products survive the hype cycle. 
 </p>
 
 <p align="center">
-  Wherever you see me use LaTeX or something fancy for expressing myself... know that I was never good at algebra when younger. I'm just heavily motivated by helping people save time.
+  Wherever you see me use LaTeX or some fancy expression for design ideas... know that I was never good at algebra when I was younger! I'm just heavily motivated by helping people save time.
 </p>
