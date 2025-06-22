@@ -2,11 +2,11 @@
   <b>Hi there!</b><br>
 </p>
   <p align="center">
-  I'm in the Svelte Discord channel when I'm online. <br/> We're a friendly bunch on most days but no one's perfect.
+  I'm probably away touching grass and building card games.
 </p>
 
 <p align="center">
-  My interests are topology (usually in Rust), linear ops and building tools that help products survive the hype cycle. 
+  My other interests are topology (usually in Rust), linear ops and building platform tools to help products survive hype cycles. 
 </p>
 
 <p align="center">
