@@ -2,7 +2,7 @@
   <b>Hi there!</b><br>
 </p>
   <p align="center">
-  I'm probably away touching grass and building card games.
+  I'm probably away touching grass and playing card games.
 </p>
 
 <p align="center">
