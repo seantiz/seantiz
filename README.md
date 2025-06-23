@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  My other interests are topology (usually in Rust), linear ops and mapping the life/death hype-cycles of a product line.
+  My other interests are topology (usually in Rust), linear ops and mapping the life/death cycles of any product.
 </p>
 
 <p align="center">
